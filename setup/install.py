@@ -267,6 +267,7 @@ def main():
     checks.installation_checks()
     checks.pattoo_shared_check()
     checks.venv_check()
+
     # Process the CLI
     _parser = Parser(additional_help=_help)
     (args, parser) = _parser.args()

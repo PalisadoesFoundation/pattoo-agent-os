@@ -55,7 +55,8 @@ Run the code block below to install the BACnet agent
 
 Stopping, Starting and Restarting daemons
 ------------------------------------------
-By default, the installation starts the daemons, and restarts them if they are already running, however, if you desire to start, stop or restart the system daemon for the linux agent after the installation the following code blocks should assist:
+By default, the installation starts the daemons if they aren't running, and restarts them if they are already running,
+ however, if you desire to start, stop or restart the system daemon for the linux agent after the installation the following code blocks should assist:
 
 **Starting daemon**
    .. code-block:: bash
