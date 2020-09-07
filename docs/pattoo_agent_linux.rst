@@ -1,4 +1,4 @@
-
+=================================
 Pattoo Hub and Spoke Linux Agents
 =================================
 
@@ -49,7 +49,7 @@ The ``pattoo_agent_linux_spoked`` is configured using the ``pattoo_agent_linux_s
      ip_bind_port: 5000
 
 Configuration Explanation
-~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 This table outlines the purpose of each configuration parameter
 
@@ -145,7 +145,7 @@ The ``pattoo_agent_linux_hubd`` is configured using the ``pattoo_agent_linux_hub
          ip_bind_port: 5000
 
 Configuration Explanation
-~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 This table outlines the purpose of each configuration parameter
 

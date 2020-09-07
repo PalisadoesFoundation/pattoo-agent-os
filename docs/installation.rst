@@ -25,14 +25,14 @@ Follow these steps.
        $ mkdir -p /installation/parent/directory
        $ cd /installation/parent/directory
 
-#. Clone the repository to the parent directory using the ``git clone`` command. You can also choose to downloading and unzip the file in the parent directory. The repository can be found at: https://github.com/PalisadoesFoundation/pattoo-agent-linux.
+#. Clone the repository to the parent directory using the ``git clone`` command. You can also choose to downloading and unzip the file in the parent directory. The repository can be found at: https://github.com/PalisadoesFoundation/pattoo-agent-linux-agent-linux.
 
 **Note** The repository should not be cloned to a directory with ``/home`` in its path
 
     .. code-block:: bash
 
        $ cd /installation/parent/directory
-       $ git clone https://github.com/PalisadoesFoundation/pattoo-agent-linux.git
+       $ git clone https://github.com/PalisadoesFoundation/pattoo-agent-linux-agent-linux.git
 
 4. Enter the ``/installation/parent/directory/pattoo-agent-linux`` directory with the ``pattoo-agent-linux`` files. 
 
